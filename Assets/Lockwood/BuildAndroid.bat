@@ -1,0 +1,1 @@
+"C:\Program Files\Unity 2020.3.38f1\Editor\Unity.exe" -projectPath ..\..\ -executeMethod BuildAndroid.Build -logFile ..\Logs\AndroidBuild.log
